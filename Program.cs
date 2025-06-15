@@ -13,6 +13,8 @@ namespace SoulRingGame
 
             Console.WriteLine("Enter user id: ");
             string id = Console.ReadLine();
+
+            Console.Write("Meowmeow");
         }
     }
 }
