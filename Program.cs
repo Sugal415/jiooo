@@ -15,6 +15,7 @@ namespace SoulRingGame
             string id = Console.ReadLine();
 
             Console.Write("Meowmeow");
+            Console.WriteLine("Jioo");
         }
     }
 }
