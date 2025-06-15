@@ -16,6 +16,7 @@ namespace SoulRingGame
 
             Console.Write("Meowmeow");
             Console.WriteLine("Jioo");
+            Console.WriteLine("🚀 Updated the Soul Ring Quest game!");
         }
     }
 }
